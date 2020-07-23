@@ -2,6 +2,8 @@
 
 This simple app coded in Vue.js includes a QR Code Generator and Reader. The generator receives as input a string that encodes into QR Code, the reader takes as input an image that decodes to provide its string representation.
 
+Main file and entry point is App.vue file.
+
 ## Project setup
 ```
 npm install
