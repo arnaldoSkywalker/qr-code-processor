@@ -1,6 +1,6 @@
 # qr-code-processor
 
-This simple app includes a QR Code Generator and Reader. The generator takes as input a string that encodes into QR Code, the reader takes as input an image
+This simple app coded in Vue.js includes a QR Code Generator and Reader. The generator takes as input a string that encodes into QR Code, the reader takes as input an image
 that decodes to provide its string representation.
 
 ## Project setup
